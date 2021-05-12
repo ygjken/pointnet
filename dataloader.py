@@ -1,7 +1,4 @@
-import models.pointnet as pn
-import torch
 from torch.utils.data import Dataset
-from torch.utils.data import DataLoader
 import numpy as np
 import h5py
 
