@@ -3,3 +3,6 @@ The [PointNet](https://arxiv.org/abs/1612.00593) build from scratch. You can stu
 
 ## Feature
 `dataloader.py` include DataLoader for ModelNet40 Dataset. 
+
+## ToDo
+- [ ] Add nodebook to train PointNet
